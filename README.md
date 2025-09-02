@@ -24,6 +24,5 @@ I am passionate about **problem solving, algorithms, and building impactful soft
 ### 📫 How to reach me
 - 💼 LinkedIn: [linkedin.com/in/mhr-noyon](https://www.linkedin.com/in/mhr-noyon/)  
 - 🏆 Codeforces: [hatedSmile](https://codeforces.com/profile/hatedSmile)  
-- 💻 GitHub: [github.com/mhr-noyon](https://github.com/mhr-noyon)  
 
 ---
