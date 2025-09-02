@@ -10,7 +10,7 @@ I am passionate about **problem solving, algorithms, and building impactful soft
 - 🏅 **NCPC Finalist**: 2023  
 - 🏆 **Best Project Award (CampusMate)** – GUB CSE Dept, 2025  
 - 📊 **1000+ problems solved** across platforms  
-- ⚡ **Codeforces Specialist** (1460 rating)  
+- ⚡ **Codeforces Specialist** (1460 rating)  - [hatedSmile](https://codeforces.com/profile/hatedSmile)  
 
 ---
 
@@ -22,7 +22,6 @@ I am passionate about **problem solving, algorithms, and building impactful soft
 ---
 
 ### 📫 How to reach me
-- 💼 LinkedIn: [linkedin.com/in/mhr-noyon](https://www.linkedin.com/in/mhr-noyon/)  
-- 🏆 Codeforces: [hatedSmile](https://codeforces.com/profile/hatedSmile)  
+- 💼 LinkedIn: [linkedin.com/in/mhr-noyon](https://www.linkedin.com/in/mhr-noyon/) 
 
 ---
