@@ -15,9 +15,9 @@ I am passionate about **problem solving, algorithms, and building impactful soft
 ---
 
 ### 💻 Skills
-- **Languages**: C++, Java, Python, JavaScript  
-- **Frameworks & Tools**: React.js, Node.js, MySQL, GitHub Actions  
-- **Areas of Interest**: Algorithms, Software Engineering, Cybersecurity  
+- **Languages**: C++, Java, Python, JavaScript
+- **Frameworks & Tools**: React.js, MySQL, GitHub Actions  
+- **Areas of Interest**: Algorithms, Software Engineering  
 
 ---
 
