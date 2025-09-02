@@ -1,16 +1,29 @@
 ## Hi there 👋
 
-<!--
-**mhr-noyon/mhr-noyon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m **Md. Hosain Rohman Noyon**, a Computer Science student at **Green University of Bangladesh**.  
+I am passionate about **problem solving, algorithms, and building impactful software solutions**.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🏆 Achievements
+- 🎯 **ICPC Dhaka Regional Finalist**: 2022, 2023, 2024  
+- 🏅 **NCPC Finalist**: 2023  
+- 🏆 **Best Project Award (CampusMate)** – GUB CSE Dept, 2025  
+- 📊 **1000+ problems solved** across platforms  
+- ⚡ **Codeforces Specialist** (1460 rating)  
+
+---
+
+### 💻 Skills
+- **Languages**: C++, Java, Python, JavaScript  
+- **Frameworks & Tools**: React.js, Node.js, MySQL, GitHub Actions  
+- **Areas of Interest**: Algorithms, Software Engineering, Cybersecurity  
+
+---
+
+### 📫 How to reach me
+- 💼 LinkedIn: [linkedin.com/in/mhr-noyon](https://www.linkedin.com/in/mhr-noyon/)  
+- 🏆 Codeforces: [hatedSmile](https://codeforces.com/profile/hatedSmile)  
+- 💻 GitHub: [github.com/mhr-noyon](https://github.com/mhr-noyon)  
+
+---
