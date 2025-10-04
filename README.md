@@ -9,7 +9,7 @@ I am passionate about **problem solving, algorithms, and building impactful soft
 - 🎯 **ICPC Dhaka Regional Finalist**: 2022, 2023, 2024  
 - 🏅 **NCPC Finalist**: 2023  
 - 🏆 **Best Project Award (CampusMate)** – GUB CSE Dept, 2025  
-- 📊 **1000+ problems solved** across platforms  
+- 📊 **1200+ problems solved** across platforms  
 - ⚡ **Codeforces Specialist** (1460 rating)  - [hatedSmile](https://codeforces.com/profile/hatedSmile)  
 
 ---
