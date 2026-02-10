@@ -6,7 +6,7 @@ I am passionate about **problem solving, algorithms, and building impactful soft
 ---
 
 ### 🏆 Achievements
-- 🎯 **ICPC Dhaka Regional Finalist**: 2022, 2023, 2024  
+- 🎯 **ICPC Dhaka Regional Finalist**: 2022, 2023, 2024, 2025  
 - 🏅 **NCPC Finalist**: 2023  
 - 🏆 **Best Project Award (CampusMate)** – GUB CSE Dept, 2025  
 - 📊 **1200+ problems solved** across platforms  
