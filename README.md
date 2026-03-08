@@ -10,12 +10,12 @@ I am passionate about **problem solving, algorithms, and building impactful soft
 - 🏅 **NCPC Finalist**: 2023  
 - 🏆 **Best Project Award (CampusMate)** – GUB CSE Dept, 2025  
 - 📊 **1200+ problems solved** across platforms  
-- ⚡ **Codeforces Specialist** (1460 rating)  - [hatedSmile](https://codeforces.com/profile/hatedSmile)  
+- ⚡ **Codeforces Specialist** (1460 rating)  - [lostBit](https://codeforces.com/profile/lostBit)  
 
 ---
 
 ### 💻 Skills
-- **Languages**: C++, Java, Python, JavaScript
+- **Languages**: C++, Java, Python, JavaScript, PHP
 - **Frameworks & Tools**: React.js, MySQL, GitHub Actions  
 - **Areas of Interest**: Algorithms, Software Engineering  
 
