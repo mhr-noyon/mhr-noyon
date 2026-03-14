@@ -44,6 +44,6 @@ I am a passionate problem solver and software enthusiast dedicated to mastering 
 ### 📫 Connect with me
 - 💼 **LinkedIn**: [linkedin.com/in/mhr-noyon](https://www.linkedin.com/in/mhr-noyon/)
 - 📧 **Email**: [mdnoyon.mh@gmail.com](mailto:your-email@example.com)
-- 🌐 **Portfolio**: [mhr-noyon.me](https://www.mhrnoyon.me) (if you have one)
+- 🌐 **Portfolio**: [mhr-noyon.me](https://www.mhrnoyon.me)
 
 ---
