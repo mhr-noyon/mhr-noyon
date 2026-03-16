@@ -7,13 +7,12 @@ I am a passionate problem solver and software enthusiast dedicated to mastering 
 ---
 
 ### 🏆 Competitive Programming Achievements
-*I live in the land of algorithms and data structures.*
 
 - 🎯 **ICPC Dhaka Regional Finalist**: 2022, 2023, 2024, 2025
 - 🏅 **NCPC Finalist**: 2023
 - ⚡ **Codeforces Specialist**: Max Rating **1460** ([@lostBit](https://codeforces.com/profile/lostBit))
 - 📊 **1200+ Problems Solved** across Codeforces, VJudge, and LeetCode.
-
+- 🎯 **Best Achievements**: 9th at CUET IUPC 2025, 15th at ICPC 2025 Dhaka Preliminary Round, Champion at BUBT IUCPC 2025 
 ---
 
 ### 💻 Tech Stack & Skills
