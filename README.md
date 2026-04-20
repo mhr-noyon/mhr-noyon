@@ -1,6 +1,6 @@
 # Hi there, I'm Md. Hosain Rohman Noyon 👋
 
-### Competitive Programmer | Full-Stack Developer | CS Student
+### Competitive Programmer | CS Student
 
 I am a passionate problem solver and software enthusiast dedicated to mastering algorithms and building impactful digital solutions. I thrive on the challenge of competitive programming and the creativity of software engineering.
 
