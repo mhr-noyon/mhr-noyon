@@ -1,4 +1,4 @@
-# Hi there, I'm Md. Hosain Rohman Noyon 👋
+# Hi! I'm Md. Hosain Rohman Noyon 👋
 
 ### Competitive Programmer | CS Student
 
