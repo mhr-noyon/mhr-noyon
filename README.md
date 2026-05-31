@@ -1,4 +1,4 @@
-# Hi! I'm Md. Hosain Rohman Noyon 👋
+# Hi! I'm Md. Hosain Rohman Noyon.
 
 ### Competitive Programmer | CS Student
 
@@ -14,7 +14,7 @@ I am a passionate problem solver and software enthusiast dedicated to mastering 
     - **15th Place** — ICPC 2025 Dhaka Preliminary Round
 - ⚡ **ICPC Dhaka Regional Finalist**: 2022, 2023, 2024, 2025
 - ⚡ **NCPC Finalist**: 2023
-- ⚡ **Codeforces Specialist**: Max Rating **1460** ([@lostBit](https://codeforces.com/profile/lostBit))
+- ⚡ **Codeforces Specialist**: Max Rating **1539** ([@lostBit](https://codeforces.com/profile/lostBit))
 - ⚡ **1200+ Problems Solved** across Codeforces, VJudge, and LeetCode.
 
 ---
